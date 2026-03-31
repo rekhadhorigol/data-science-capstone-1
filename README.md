@@ -1,4 +1,4 @@
-### Capstone Project 1 - Body Metrics Analysis (NHANES Dataset)
+### Body Metrics Analysis (NHANES Dataset)
  
 An exploratory data analysis project using the **NHANES 2020 Adult Body Measurements** dataset, comparing physical health metrics between males and females.
  
@@ -15,3 +15,10 @@ An exploratory data analysis project using the **NHANES 2020 Adult Body Measurem
 **Tools & Libraries:** pandas, numpy, matplotlib, seaborn, scipy.stats
  
 **Dataset:** NHANES Adult Body Measurements 2020 — CDC
+
+**Colab Link:**
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17Fj8njaMtG4k1ikVgXvNkybwcCcu-4tU?usp=sharing)
+
+*Author*
+
+*Rekha Dhorigol*
